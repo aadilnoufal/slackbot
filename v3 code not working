@@ -1,0 +1,28 @@
+import os
+from slack_bolt import App
+from slack_bolt.adapter.socket_mode import SocketModeHandler
+
+# Replace with your actual tokens and secret
+SLACK_BOT_TOKEN = "y" 
+SLACK_APP_TOKEN = "xapp-..."
+SLACK_SIGNING_SECRET = "c"
+
+app = App(token=SLACK_BOT_TOKEN, signing_secret=SLACK_SIGNING_SECRET)
+
+# FAQ responses
+faq = {
+    "hello": "Hi there! How can I help you?",
+    "how are you?": "I'm doing well, thank you!",
+    "what's your purpose?": "I'm here to answer your questions!"
+}
+
+@app.message("")
+def handle_message(message, say):
+    text = message['text'].lower()
+    response = faq.get(text, "Sorry, I don't have an answer for that.")
+    say(response)
+
+# Use Socket Mode for Jupyter (Important!)
+if __name__ == "__main__":
+    handler = SocketModeHandler(app, SLACK_APP_TOKEN)
+    handler.start()
