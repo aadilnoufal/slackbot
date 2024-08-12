@@ -1,0 +1,29 @@
+# slcak bot prank
+import slack 
+import os
+from flask import Flask
+import slack_sdk
+
+client = slack_sdk.WebClient(token='x')
+client.chat_postMessage(channel='#arcade-monitor', text=""" *Changes detected in the shop*
+
+*New item added*
+*Name*: Persian Cat(white color)
+*Description*: 6 months old(fully vaccinated)
+*Fulfillment info*: Available in US only(selected territories) 
+*Price*: 250
+*Stock*: 5""")
+
+# & next code also hereeeee
+
+# slcak bot prank
+import slack 
+import os
+from flask import Flask
+import slack_sdk
+
+client = slack_sdk.WebClient(token='x')
+client.chat_postMessage(channel='#arcade-monitor', text=""" *Changes detected in the shop*
+Name: Persian Cat
+Stock: 5 → 4 :arrow_down_small:""")
+
