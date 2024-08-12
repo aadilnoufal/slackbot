@@ -1,0 +1,6 @@
+import slack 
+import os
+from flask import Flask
+
+  client = slack.WebClient(token="")
+client.chat_postMessage(channel='#faq_bot1', text="Hello World!")
