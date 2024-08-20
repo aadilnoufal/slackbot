@@ -30,11 +30,12 @@ And yes, I had permission from the chat admin for this prank—so no worries, it
 Here’s how you can replicate this prank:
 
 1. **go to https://app.slack.com/**:
+   
    make your own Slack bot, give it enough permissions and customise it at your will(best tutorial I found https://www.youtube.com/watch?v=KJ5bFv-IRFM&list=PLzMcBGfZo4-kqyzTzJWCV6lyK-ZMYECDc&index=1)
 
    get your own token to use with my code
 
-2. **run your own slack bot and enjoy**
+3. **run your own slack bot and enjoy**
    pls make sure it is either useful or not harmful to anyone else.
 
 
