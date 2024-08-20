@@ -3,7 +3,7 @@
 
 
 **Welcome to the wildest Slack prank of the year!**  
-PersianCatBot is a cleverly disguised bot that took the Hack Club Slack community by storm, creating hilarious chaos and unforgettable reactions. This bot is a replica of the real Arcade Monitor bot, complete with the same name, profile picture, and all the bells and whistles—only this one has a knack for adding virtual Persian cats to the gift inventory. 😸
+PersianCatBot is a cleverly disguised bot that took the Hack Club Slack community by storm, creating hilarious chaos and unforgettable reactions. This bot is a replica of the real Arcade Monitor bot, complete with the same name, profile picture, and all the bells and whistles—only this one has a knack for adding FAKE Persian cats to the gift inventory. 😸
 
 ## 🎯 The Backstory
 
