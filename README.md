@@ -17,6 +17,11 @@ In our Hack Club Slack, the Arcade Monitor bot keeps us all updated about the la
 
 And yes, I had permission from the chat admin for this prank—so no worries, it was all in good fun! 😉
 
+### Here are some images to laugh around
+![Screenshot 2024-08-20 105718](https://github.com/user-attachments/assets/7b01cb95-8475-45bf-9da7-a5954611375a)
+![Screenshot 2024-08-20 105735](https://github.com/user-attachments/assets/d6253008-1855-49ab-9d3f-dacc231e476b)
+![Screenshot 2024-08-20 105943](https://github.com/user-attachments/assets/fc6a4e7e-544e-4dda-838e-c7519872df28)
+
 
 
 
